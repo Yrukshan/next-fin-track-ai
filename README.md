@@ -1,8 +1,8 @@
 # 💰 FinTrack AI
 
-Web Site Link (Deployment) : https://next-fin-track-ai-finance-tracker.vercel.app/
+Web Site Link (Deployment) : 
 
-<img width="1916" height="913" alt="Screenshot 2026-01-17 023614" src="https://github.com/user-attachments/assets/6c0c4964-d975-4c61-a4bc-b1503b2e6b74" />
+<img width="1916" height="913" alt="Screenshot 2026-01-17 023614" src="https://github.com/user-attachments/assets/5c9c8d00-8428-4ae7-b701-295cd3b97c6c" />
 
 A modern, AI-powered expense tracking web application built with Next.js 15, featuring intelligent categorization, real-time analytics, and personalized financial insights.
 
